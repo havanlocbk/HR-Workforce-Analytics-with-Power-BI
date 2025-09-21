@@ -1,4 +1,4 @@
-# 📊 HR Workforce Analytics with Power BI
+# 📊 Optimize Workforce Planning – HR Analytics – Power BI
 
 *Applied Power Query, DAX, and Power BI to analyze HR workforce data,
 enabling insights on employee retention, satisfaction, and performance
